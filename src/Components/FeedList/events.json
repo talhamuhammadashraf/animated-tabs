@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "_id": "1",
+            "title": "Dinner with Fairgrove Partners",
+            "eventTime": {
+                "startTime": "2023-10-27T14:45:00.000Z",
+                "endTime": "2023-10-27T15:30:00.000Z"
+            },
+            "tags": [
+                {
+                    "title": "🎻 Music",
+                    "key": "music"
+                },
+                {
+                    "title": "⚽️  Sport",
+                    "key": "sport"
+                },
+                {
+                    "title": "🎬 Movie",
+                    "key": "movie"
+                }
+            ]
+        },
+        {
+            "_id": "2",
+            "title": "Dinner with Fairgrove Partners",
+            "eventTime": {
+                "startTime": "2023-10-27T14:45:00.000Z",
+                "endTime": "2023-10-27T15:30:00.000Z"
+            },
+            "tags": [
+                {
+                    "title": "🎻 Music",
+                    "key": "music"
+                },
+                {
+                    "title": "⚽️  Sport",
+                    "key": "sport"
+                },
+                {
+                    "title": "🎬 Movie",
+                    "key": "movie"
+                }
+            ]
+        }
+    ]
+}
